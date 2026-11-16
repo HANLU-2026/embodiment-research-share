@@ -5,11 +5,13 @@ Public, **research-only** reference material on humanoid robots, UK serviceabili
 > **Not a purchase recommendation, engineering safety certification, warranty promise, or legal opinion.**
 > Where direct model-specific contractual or test evidence is absent, we say **UNKNOWN**. A vendor sales channel is not evidence of authorized component repair.
 
-## Read these three briefs / 三份研究
+## Research briefs / 研究报告
 
 1. **[Appearance, price and practical body shortlist](research/UK_HUMANOID_CANDIDATES_2026-11-16.md)** — complete-body candidates, exterior, price evidence, UK delivery unknowns, home chair/threshold and contact-safety questions.
 2. **[UK repair, data control and offline lifecycle](research/UK_SERVICE_PRIVACY_DUE_DILIGENCE_2026-11-16.md)** — differences between distributor, authorized module swap and factory repair; data/log transfer, offline setup, RMA, warranty and public legal guidance.
 3. **[Local audio, vision, touch and interface options](research/LOCAL_SENSORY_INTERFACES_2026-11-16.md)** — practical offline speech stack, lightweight vision constraints, hardware safety boundaries and manufacturer sensor APIs.
+
+4. **[Four-platform photo/video, chair posture, home constraints & offline speech addendum](research/HUMANOID_POSTURE_HOME_AUDIO_FOLLOWUP_2026-11-16.md)** — X2 official assisted chair protocol, four vendor photo/video links, common household question set, public UK price limits and independent-PC audio requirements.
 
 ## How to read results
 - **CONFIRMED PUBLIC DOCUMENTATION:** an OEM manual, contract, policy or dated official product statement supports the *specific* claim. This does not imply independent physical testing.
