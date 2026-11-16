@@ -1,6 +1,8 @@
 # Human-friendly humanoids: UK price, body and delivery screen
 **Public research snapshot: 2026-11-16** · Not a buying recommendation; no product has passed all UK servicing, user-data control, household safety and delivery gates.
 
+**2026-11-16 chair & local-audio evidence update:** [Four-platform posture, household constraints and speech follow-up](HUMANOID_POSTURE_HOME_AUDIO_FOLLOWUP_2026-11-16.md) documents OEM **AGIBOT X2 seated start and seated shutdown requiring a 35–40cm support and rear-handle assistance**, and warns the separately priced X2 Neo lacks full secondary development. Autonomous ordinary-chair sit/rise remains unverified. This addendum supersedes the earlier generic sitting-status description.
+
 ## Morphology first
 Screen is for an **approachable, full-body biped**, not a lone arm or torso on wheels. "Looks soft" and "can be hugged safely" are different assertions: impact, fall energy, skin/force sensing, motor torque, finger pinch points, heat and emergency relocation require their own tests. A wheeled robot might dock next to a chair, but cannot perform ordinary **legged chair sitting/rising** on an unchanged wheeled base.
 
