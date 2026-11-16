@@ -5,6 +5,8 @@
 
 **2026-11-16 emergency recovery & UK insurance addendum:** [Four-platform E-stop, one-person rescue and insurance evidence](HUMANOID_ESTOP_RECOVERY_UK_INSURANCE_2026-11-16.md) documents X2 AimDK two-person lay-down, GR-3 hoist/physical E-stop motor-cut risks and the new TMHCC/Adrian Flux UK domestic humanoid product (specific model coverage unconfirmed). No platform passes household safety gates.
 
+**2026-11-16 power/firmware addendum:** [Gemini power and offline lifecycle audit (Sol evidence-corrected)](HUMANOID_POWER_FIRMWARE_LIFECYCLE_2026-11-16.md) covers model-specific batteries, UK mains adapter, loss-of-power behavior, account/OTA locking and UK dangerous-goods shipping. All offline/loss-of-power safety gates remain open.
+
 ## Morphology first
 Screen is for an **approachable, full-body biped**, not a lone arm or torso on wheels. "Looks soft" and "can be hugged safely" are different assertions: impact, fall energy, skin/force sensing, motor torque, finger pinch points, heat and emergency relocation require their own tests. A wheeled robot might dock next to a chair, but cannot perform ordinary **legged chair sitting/rising** on an unchanged wheeled base.
 
