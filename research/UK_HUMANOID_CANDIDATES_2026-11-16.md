@@ -1,0 +1,36 @@
+# Human-friendly humanoids: UK price, body and delivery screen
+**Public research snapshot: 2026-11-16** · Not a buying recommendation; no product has passed all UK servicing, user-data control, household safety and delivery gates.
+
+## Morphology first
+Screen is for an **approachable, full-body biped**, not a lone arm or torso on wheels. "Looks soft" and "can be hugged safely" are different assertions: impact, fall energy, skin/force sensing, motor torque, finger pinch points, heat and emergency relocation require their own tests. A wheeled robot might dock next to a chair, but cannot perform ordinary **legged chair sitting/rising** on an unchanged wheeled base.
+
+## Candidate evidence map
+Prices are *publicly advertised*, not identical configurations or UK-delivered quotes. Currency conversions, shipping, import handling, duty and installation are **UNKNOWN** except where specified.
+
+| Candidate | Appearance / physical form | Indicative advertised price | UK sale & actual servicing | Data & offline lifecycle | Sit/rise, flooring and emergency recovery | Status |
+|---|---|---|---|---|---|---|
+| **1X NEO** | Adult-sized, soft knit and tendon-driven, complete legs | **US$20,000** purchase or **$499/month** published US offer | Initial market US; UK private delivery, stocked parts, service SLA **UNKNOWN** | Scheduled human Expert Mode and camera access exist in product design; mandatory/optional scope, permanent disable, local SDK and offline firmware **UNKNOWN** | Soft covering ≠ safe contact; ordinary-chair repetitive sit/rise, threshold and emergency-manual-move results **UNKNOWN** | **Watch**; privacy + UK service gates |
+| **Fourier GR-3** | About 165cm, **71kg**, soft-cover care-bot design, complete biped | UK RBTX listing **£228,787.24 excluding VAT and freight** in research snapshot. Current availability and configuration must be reconfirmed; unsupported OEM direct-price comparisons are excluded | UK reseller listing ≠ OEM-authorized joint/BMS teardown or on-site service; **UNKNOWN** | Local developer/DDS interfaces, but licensing, service logs, offline first activation/recovery **UNKNOWN** | Seated pose shown publicly; ordinary UK-chair autonomous repetition and safe disabled-body relocation **UNKNOWN**; mass is a safety warning flag, not a measured injury score | **Watch**, high acquisition and rescue burden |
+| **AGIBOT X2 / X2 Neo** | 131cm, ~35kg, rounded shell/display face, biped | OEM **US$25,600** X2 Neo; EU retailer **€23,976** example with exact variant/tax unclear | UK distributors/integrators Reeco, Scancom, HRS; **does not prove** UK authorized joint/battery repairs, home-use sale or fixed UK delivery | Raw sensor access, default telemetry, OTA and air-gapped activation/recovery **UNKNOWN** | Plain X2 sensor set differs materially from X2 Ultra; chair sit/rise, home floor traction and stop/rescue **UNKNOWN** | **Watch**, useful UK distributor lead |
+| **NEURA 4NE1 Gen3.5 / Gen4** | Complete German biped; Gen4 textile and local-AI claims. **Do not apply earlier-gen 80kg mass to Gen4 without current datasheet.** | **Gen3.5 €98,000** OEM reservation (ex tax/shipping); **Gen4 actual UK quote UNKNOWN** | Germany manufacturer presence; UK private delivery, OEM UK service and SLA **UNKNOWN**; OEM prioritizes industrial application, households longer-term | Local NEURON AI claim ≠ full offline; Neuraverse-linked functionality, remote support, recovery/skills **UNKNOWN** | No independent UK-home chair success, thresholds, falling-body recovery confirmed | **Watch**, European manufacturer, household timing unverified |
+| **NEURA 4NE1 Mini** | Smaller complete biped, development/education emphasis | OEM **€19,999 Standard / €29,999 Pro** estimated, ex tax/shipping | UK home purchase/repairs **UNKNOWN** | Neuraverse/service dependence **UNKNOWN** | Small body not a proof of adult chair sitting/physical closeness | **Small option only** |
+| **Fauna Sprout** | Friendly soft exterior, **107cm / 22.7kg**, full legs | About **US$50,000** reported by AP | OEM shipped US Creator Edition; an EU reseller states currently **US-only sales**. **UK OEM terms and repair UNKNOWN**, not permanently proven impossible | Local developer functions/onboard compute ≠ offline recovery and data guarantee | AP reported chair-rise demonstration; repeated home chair trials, manual rescue **UNKNOWN** | **Demoted: UK supply risk** |
+
+**Excluded from active household shortlist:** **StarBot Spark** (US education/research focus, uncertain UK delivery and home chair capability), Unitree G1/R1 and Booster K1 (industrial aesthetic screen rather than a technical failure), wheeled torso platforms such as Reachy 2 and wheeled Ameca (different body criterion). No inference that excluded products are unsafe in all settings.
+
+## Direct visual and pricing evidence
+- 1X NEO official photos, offer, Expert Mode, tendon cycle specs: https://www.1x.tech/order ; https://www.1x.tech/discover/neo-home-robot
+- Fourier GR-3 technical specs / mass: https://support.fftai.com/en/gr3/getting-started/general-information ; UK reseller images/offer: https://rbtx.co.uk/en-GB/components/humanoid/fourier-gr3-humanoid-robot-care-bot
+- AGIBOT X2 OEM photos / **X2 vs X2 Ultra** configurations: https://www.agibot.com/products/X2 ; OEM store: https://store.agibot.com/products/x2 ; UK distributor/integration claims: https://www.scancom.co.uk/pages/agibot ; https://www.reeco.co.uk/agibot-x2 ; https://hrsrobot.co.uk/products
+- NEURA 4NE1 Gen4 appearance and positioning: https://neura-robotics.com/tum-robogym-munich-4ne1-gen4-launch/ ; https://neura-robotics.com/nvidia-gtc-berlin-2026-recap/ ; Gen3.5 prices: https://neura-robotics.com/product/4ne1-reservation/ ; Mini: https://neura-robotics.com/product/4ne1-mini-reservation/
+- Fauna Sprout photos: https://faunarobotics.com/product ; manufacturer after acquisition: https://faunarobotics.com/news/fauna-robotics-joins-amazon ; EU seller sales limitation: https://robotio.eu/fauna-sprout ; reported chair-rise/price: https://apnews.com/article/f51ced4a097b1af56b0b2561cdca8fef
+- StarBot educational product and reservation terms: https://www.starbotusa.com/ ; https://www.starbotusa.com/terms
+
+## Household and total-cost questions still unproven
+1. Actual clear door width, sill/threshold height, carpet pile, traction on hard floors, robot turning radius, stair-edge avoidance and doorway *opening* versus simply *passing through*.
+2. Autonomous repeatable 42–46cm ordinary chair sit/rise with no support; failure, fall, heat and recovery SOP.
+3. Safe stopping, mechanical brake/zero-torque state, fall energy, single-person manual relocation and controlled contact around bystanders.
+4. Private-home sale/intended use, product declarations, battery/charger safety, UK home insurance coverage **in writing**. There is no one universal "UKCA domestic robot certification."
+5. True landed budget: VAT/freight/duties, service subscription, software license/OTA, consumable actuator/tendon replacement, UK callout and after-sales insurance. **1X's 2m nominal / 100k 3×-peak tendon test cycles do not equal known annual replacement rates.**
+
+**Decision:** public evidence is insufficient to designate a UK household-ready, serviceable, data-sovereign biped or to pay a deposit.
