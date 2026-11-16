@@ -14,6 +14,8 @@ Related:
 
 **Evidence legend:** A = explicit OEM technical/store text *for a named SKU* (not independently tested); B = broader OEM promotion or uncertain SKU scope; C = independent third-party reported information; U = not established in this public review. Mark factual subclaims separately; unknown ≠ unsupported.
 
+**Security-support horizon update (AGIBOT; publication not a guarantee of future expiry):** OEM's [Defined Support Period](https://www.agibot.com/Defined%20Support%20Period.pdf) currently lists **Agibot X2 Neo and X2 Ultra** with `2027-01-01` as the stated end of security update support, and says dates may be extended. This **does not** establish that X2 Ultra *New Version* shares the same date, that devices are disabled, or that no extra support can be contracted. Obtain written exact-SKU and firmware patch support coverage before 2027 UK purchase.
+
 ## 1. UK home electricity / battery evidence
 
 | Candidate | OEM-published battery / endurance | AC input and UK compatibility | Safe loss-of-power state | Evidence / caution |
