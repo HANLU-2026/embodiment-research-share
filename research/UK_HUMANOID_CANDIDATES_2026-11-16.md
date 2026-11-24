@@ -9,6 +9,8 @@
 
 **2026-11-16 household cohabitation addendum:** [Acoustic, mixed flooring, child/pet and UK spare-parts evidence](HUMANOID_HOME_COHABITATION_NOISE_FLOORS_CHILD_PETS_2026-11-16.md) records 1X's 22dB OEM-only claim, lack of comparable household noise/abrasion/child-pet trials, and a new AGIBOT X2 published 2027-01-01 security-update support date (extension possible; SKU/version must be confirmed).
 
+**2026-11-24 UK landed-cost update:** [Equipment price, import VAT/duty sensitivity, lithium freight and first-year insurance scenarios](HUMANOID_UK_LANDED_COST_ESTIMATE_2026-11-24.md). Scenarios are *not* 2027 UK quotations; Gen4 remains unpriced and broker premiums unquoted. Distinguishes X2 Ultra old-channel and New Version pricing.
+
 ## Morphology first
 Screen is for an **approachable, full-body biped**, not a lone arm or torso on wheels. "Looks soft" and "can be hugged safely" are different assertions: impact, fall energy, skin/force sensing, motor torque, finger pinch points, heat and emergency relocation require their own tests. A wheeled robot might dock next to a chair, but cannot perform ordinary **legged chair sitting/rising** on an unchanged wheeled base.
 
