@@ -3,6 +3,8 @@
 
 Related: [four-platform shortlist](UK_HUMANOID_CANDIDATES_2026-11-16.md), [emergency recovery and UK insurance](HUMANOID_ESTOP_RECOVERY_UK_INSURANCE_2026-11-16.md), [power and battery transport](HUMANOID_POWER_FIRMWARE_LIFECYCLE_2026-11-16.md), [home cohabitation](HUMANOID_HOME_COHABITATION_NOISE_FLOORS_CHILD_PETS_2026-11-16.md).
 
+**2026-11-26 execution update:** [UK exact-SKU RFQ & insurance underwriting tracker](UK_HUMANOID_RFQ_INSURANCE_UNDERWRITING_TRACKER_2026-11-26.md) verifies AGIBOT X2 Ultra 31-DOF New Version vs older UK 30-DOF RBTX and 25-DOF Reeco versions, current insurer contact route, and four prepared **Outlook drafts not sent**. The budget envelopes in this report remain *modelled*, **not** real UK supplier or broker quotations.
+
 ## Headline
 UK standard **20% VAT**, plus shipping, dangerous-goods handling and possibly Customs Duty, will dominate the gap from advertised overseas list to UK household total. **Insurance premium is NOT published** by the specialist UK broker, and no exact candidate model has verified insurability or a UK repair/rescue SLA. Do not mistake a calculation scenario for a market quotation.
 
