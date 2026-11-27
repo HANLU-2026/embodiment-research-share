@@ -1,5 +1,5 @@
 # 2027 UK domestic humanoid procurement | Supplier RFQ and insurance underwriting tracker
-**Date:** 2026-11-26 | **Status:** Desk verification completed; **four Outlook enquiries SAVED AS DRAFTS, NONE SENT**. No real supplier delivery quote, insurance premium or binding cover yet. This is **not** purchase, approval or underwriting.
+**Date:** 2026-11-26 | **Status:** Desk verification completed; **four enquiries SENT from personal Gmail on 2026-11-27; earlier corporate Outlook drafts retained but not sent**. No real supplier delivery quote, insurance premium or binding cover yet. This is **not** purchase, approval or underwriting.
 
 Cross-links: [24 November landed-cost scenarios](HUMANOID_UK_LANDED_COST_ESTIMATE_2026-11-24.md) · [four-candidate base shortlist](UK_HUMANOID_CANDIDATES_2026-11-16.md) · [emergency stop and insurer coverage boundaries](HUMANOID_ESTOP_RECOVERY_UK_INSURANCE_2026-11-16.md) · [power, firmware, lithium shipment](HUMANOID_POWER_FIRMWARE_LIFECYCLE_2026-11-16.md).
 
@@ -40,6 +40,12 @@ Cross-links: [24 November landed-cost scenarios](HUMANOID_UK_LANDED_COST_ESTIMAT
 | **P1** | **info@rbtx.com** | `UK humanoid listings — X2 Ultra exact generation and GR-3 VAT-inclusive delivered comparison`. Price exact old vs new X2, clarify UK GR-3 extreme listing spread and included support. | **Saved Outlook draft, not sent** |
 
 **Operational boundary:** A draft is not a message sent or a quote received. User personally reviews and decides whether/how to send each draft; no automated submission, no booking a callback or disclosing private street address. Avoid creating duplicate drafts by rerunning.
+
+## 2026-11-27 dispatch update — four enquiries SENT
+
+User explicitly approved sending from the connected personal Gmail account. Gmail returned SENT for all four original enquiries: AGIBOT, Reeco, Adrian Flux and RBTX. This supersedes the earlier DRAFT READY / SENDER TO CONFIRM status. The corporate Outlook drafts are retained but must NOT be sent again. No deposit, order, insurance application or procurement commitment made. No formal quotation or underwriting response established yet. Personal mailbox identifiers are deliberately excluded from the shared research repository.
+
+Next evidence: supplier exact-SKU delivered quote, UK repair and offline permissions, and broker eligibility/policy wording/premium. All four candidates remain WATCH; safety and purchase gates unchanged.
 
 ## 2026-11-27 pre-send verification — four drafts audited, none sent
 
