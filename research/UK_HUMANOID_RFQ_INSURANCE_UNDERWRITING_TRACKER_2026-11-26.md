@@ -41,6 +41,29 @@ Cross-links: [24 November landed-cost scenarios](HUMANOID_UK_LANDED_COST_ESTIMAT
 
 **Operational boundary:** A draft is not a message sent or a quote received. User personally reviews and decides whether/how to send each draft; no automated submission, no booking a callback or disclosing private street address. Avoid creating duplicate drafts by rerunning.
 
+## 2026-11-27 pre-send verification — four drafts audited, none sent
+
+**Mailbox reconciliation:** the four exact saved Outlook draft IDs were fetched successfully, with correct subjects, body and recipient for AGIBOT, Reeco, Adrian Flux and RBTX. Targeted Outlook searches for all four vendors found only these *drafts*, **no previously sent thread or vendor reply in that connected Outlook mailbox** as of audit. Search absence is mailbox-scoped, not a global proof of no communications via other accounts.
+
+**Contact verification (public primary sources):**
+- AGIBOT sales@agibot.com: https://www.agibot.com/about/contact and https://store.agibot.com/products/x2-ultra
+- Reeco sales@reeco.co.uk: https://www.reeco.co.uk/contact
+- RBTX info@rbtx.com: https://rbtx.co.uk/en-GB/contact (UK igus imprint also lists sales@igus.co.uk; do **not** silently substitute sender without need)
+- Adrian Flux quotes@adrianflux.co.uk: its public terms of trading (general quote inbox, NOT verified robot-specific underwriter); https://www.adrianflux.co.uk/pdfs/documents/termsoftrading.pdf . Dedicated humanoid enquiries can also use 0800 369 8590 / https://www.adrianflux.co.uk/domestic-humanoid-robot-insurance/ . Ask the quotes team to route to humanoid underwriter.
+
+**Sender-identity decision gate:** the drafts were saved from a connected **corporate** Outlook mailbox; the planned use described is **private residential** ownership. Before sending, choose whether private individual or a company is truly the proposed purchaser/insured. Use the correct authorized sender and do not misstate company use or VAT-reclaim status to elicit a lower price. No sender switch, sending or duplicate drafts were made in this audit.
+
+**Price update:** as checked on **2026-11-27**, AGIBOT's current product URLs for **X2 Neo and X2 Ultra New Version both say "Price on request"**; a previously recorded **US$25,600 X2 Neo** value is historical public snapshot only and **no longer a current live listed offer**. The 2026-11-24 cost simulation remains a dated comparison scenario; obtain an exact current formal quote. Source https://store.agibot.com/products/x2 .
+
+**Suggested dispatch order once user has approved the specific drafts and sender:**
+1. AGIBOT **New Version** exact SKU+UK permitted household use and direct price, then Reeco UK authorised model support. Avoid treating the two as same machine.
+2. Adrian Flux **eligibility and specimen terms first**; exact model premium only after real equipment quote is known.
+3. RBTX **UK older-model comparison only**; its older X2 offer is not a New Version price.
+
+**Rapid response schema:** tag each supplier reply as `MODEL/SKU VERIFIED`, `VAT/INCOTERM VERIFIED`, `UK RESIDENTIAL SUPPLY ACCEPTED`, `LITHIUM SHIPPING VERIFIED`, `UK REPAIR/RECOVERY VERIFIED`, `ALWAYS-OFFLINE PERMITTED`, `POWER-LOSS SAFETY VERIFIED`, and `INSURANCE ELIGIBLE`. Mark `UNKNOWN` for silence. A vendor estimate cannot grant insurance cover and a broker's willingness to quote cannot establish mechanical safety.
+
+**Operational status: DRAFT READY / SENDER TO CONFIRM / NO EMAIL SENT / NO REAL QUOTE OR PREMIUM RECEIVED.**
+
 ## 4. Quote acceptance checklist (mark UNKNOWN unless supplier replies)
 
 For each **exact model/SKU and firmware**, capture:
