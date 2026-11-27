@@ -5,6 +5,8 @@ Related: [four-platform shortlist](UK_HUMANOID_CANDIDATES_2026-11-16.md), [emerg
 
 **2026-11-26 execution update:** [UK exact-SKU RFQ & insurance underwriting tracker](UK_HUMANOID_RFQ_INSURANCE_UNDERWRITING_TRACKER_2026-11-26.md) verifies AGIBOT X2 Ultra 31-DOF New Version vs older UK 30-DOF RBTX and 25-DOF Reeco versions, current insurer contact route, and four prepared **Outlook drafts not sent**. The budget envelopes in this report remain *modelled*, **not** real UK supplier or broker quotations.
 
+**2026-11-27 live-listing correction:** AGIBOT now displays **"Price on request" for BOTH X2 Neo and X2 Ultra New Version** on https://store.agibot.com/products/x2 and https://store.agibot.com/products/x2-ultra . Thus this 2026-11-24 report's **US$25,600 X2 Neo** is a **dated historical pricing input**, no longer a currently obtainable public price; its £25.6k–33.2k scenario is **not a current purchasable UK envelope**. No new quote was obtained. Also see the [pre-send audit](UK_HUMANOID_RFQ_INSURANCE_UNDERWRITING_TRACKER_2026-11-26.md) for verified contact channels and sender gate.
+
 ## Headline
 UK standard **20% VAT**, plus shipping, dangerous-goods handling and possibly Customs Duty, will dominate the gap from advertised overseas list to UK household total. **Insurance premium is NOT published** by the specialist UK broker, and no exact candidate model has verified insurability or a UK repair/rescue SLA. Do not mistake a calculation scenario for a market quotation.
 
